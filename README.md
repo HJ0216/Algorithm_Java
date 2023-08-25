@@ -187,6 +187,7 @@
 ## 🎸 기타
 - [[BaekJoon] 10430번 나머지 문제풀이 (Success)](https://hj0216.tistory.com/227)
 - [[BaekJoon] 10757번 큰 수 A+B 문제풀이 (Success)](https://hj0216.tistory.com/449)
+- [[BaekJoon] 10820번 문자열 분석 문제 풀이 (Success)](https://hj0216.tistory.com/689)
 - [[BaekJoon] 10926번 ??! 문제풀이 (Success)](https://hj0216.tistory.com/163)
 - [[BaekJoon] 18108번 1998년생인 내가 태국에서는 2541년생?! 문제풀이 (Success)](https://hj0216.tistory.com/179)
 - [[BaekJoon] 2477번 참외밭 문제풀이 (-ing)](https://hj0216.tistory.com/191)

@@ -190,6 +190,7 @@
 - [[BaekJoon] 10757번 큰 수 A+B 문제풀이 (Success)](https://hj0216.tistory.com/449)
 - [[BaekJoon] 10820번 문자열 분석 문제 풀이 (Success)](https://hj0216.tistory.com/689)
 - [[BaekJoon] 10828번 스택 문제 풀이 (Success)](https://hj0216.tistory.com/696)
+- [[BaekJoon] 10845번 큐 문제 풀이 (Success)](https://hj0216.tistory.com/709)
 - [[BaekJoon] 10926번 ??! 문제풀이 (Success)](https://hj0216.tistory.com/163)
 - [[BaekJoon] 18108번 1998년생인 내가 태국에서는 2541년생?! 문제풀이 (Success)](https://hj0216.tistory.com/179)
 - [[BaekJoon] 2477번 참외밭 문제풀이 (-ing)](https://hj0216.tistory.com/191)

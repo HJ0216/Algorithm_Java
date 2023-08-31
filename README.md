@@ -177,6 +177,7 @@
 - [[BaekJoon] 28278번 스택2 문제 풀이 (Success)](https://hj0216.tistory.com/704)
 - [[BaekJoon] 10773번 제로 문제풀이 (Success)](https://hj0216.tistory.com/621)
 - [[BaekJoon] 9012번 괄호 문제풀이 (Success)](https://hj0216.tistory.com/624)
+- [[BaekJoon] 18258번 큐2 문제 풀이 (Success)](https://hj0216.tistory.com/714)
 
 <br/>
 

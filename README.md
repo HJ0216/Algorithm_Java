@@ -178,6 +178,7 @@
 - [[BaekJoon] 10773번 제로 문제풀이 (Success)](https://hj0216.tistory.com/621)
 - [[BaekJoon] 9012번 괄호 문제풀이 (Success)](https://hj0216.tistory.com/624)
 - [[BaekJoon] 18258번 큐2 문제 풀이 (Success)](https://hj0216.tistory.com/714)
+- [[BaekJoon] 2164번 카드2 문제 풀이 (Success)](https://hj0216.tistory.com/719)
 - [[BaekJoon] 28279번 덱2 문제 풀이 (Success)](https://hj0216.tistory.com/716)
 
 <br/>

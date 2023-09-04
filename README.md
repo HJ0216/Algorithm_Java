@@ -164,6 +164,7 @@
 - [[BaekJoon] 14425번 문자열 집합 문제풀이 (Success)](https://hj0216.tistory.com/647)
 - [[BaekJoon] 7785번 회사에 있는 사람 문제풀이 (Success)](https://hj0216.tistory.com/648)
 - [[BaekJoon] 10816번 숫자 카드 2 문제풀이 (Success)](https://hj0216.tistory.com/649)
+- [[BaekJoon] 1764번 듣보잡 문제 풀이 (Success)](https://hj0216.tistory.com/722)
 
 <br/>
 

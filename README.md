@@ -1,6 +1,6 @@
 # Algorithm 문제 풀이
 
-## 입출력과 사칙연산
+## 1. 입출력과 사칙연산
 - [[BaekJoon] 2557번 Hello World 문제풀이 (Success)](https://hj0216.tistory.com/138)
 - [[BaekJoon] 1000번 A+B 문제풀이 (Success)](https://hj0216.tistory.com/139)
 - [[BaekJoon] 1001번 A-B 문제풀이 (Success)](https://hj0216.tistory.com/144)
@@ -14,7 +14,7 @@
 
 <br/>
 
-## 조건문
+## 2. 조건문
 - [[BaekJoon] 1330번 두 수 비교하기 문제풀이 (Success)](https://hj0216.tistory.com/239)
 - [[BaekJoon] 9498번 시험 성적 문제풀이 (Success)](https://hj0216.tistory.com/242)
 - [[BaekJoon] 2753번 윤년 문제풀이 (Success)](https://hj0216.tistory.com/247)
@@ -25,7 +25,7 @@
 
 <br/>
 
-## 반복문
+## 3. 반복문
 - [[BaekJoon] 2739번 구구단 문제풀이 (Success)](https://hj0216.tistory.com/261)
 - [[BaekJoon] 10950번 A+B-3 문제풀이 (Success)](https://hj0216.tistory.com/271)
 - [[BaekJoon] 8393번 합 문제풀이 (Success)](https://hj0216.tistory.com/274)
@@ -41,7 +41,7 @@
 
 <br/>
 
-## 1차원 배열
+## 4. 1차원 배열
 - [[BaekJoon] 10807번 개수 세기 문제풀이 (Success)](https://hj0216.tistory.com/277)
 - [[BaekJoon] 10871번 X보다 작은 수 정렬 문제풀이](https://hj0216.tistory.com/329)
 - [[BaekJoon] 10818번 최소, 최소 문제풀이 (Success)](https://hj0216.tistory.com/320)
@@ -55,7 +55,7 @@
 
 <br/>
 
-## 문자열
+## 5. 문자열
 - [[BaekJoon] 27866번 문자와 문자열 문제풀이 (Success)](https://hj0216.tistory.com/280)
 - [[BaekJoon] 2743번 단어 길이 재기 문제풀이 (Success)](https://hj0216.tistory.com/355)
 - [[BaekJoon] 9086번 문자열 문제풀이 (Success)](https://hj0216.tistory.com/356)
@@ -70,7 +70,7 @@
 
 <br/>
 
-## 심화1
+## 6. 심화1
 - [[BaekJoon] 25083번 새싹 문제풀이 (Success)](https://hj0216.tistory.com/372)
 - [[BaekJoon] 3003번 킹, 퀸, 룩, 비숍, 나이트, 폰 문제풀이 (Success)](https://hj0216.tistory.com/390)
 - [[BaekJoon] 2444번 별 찍기 - 7 문제풀이 (Success)](https://hj0216.tistory.com/393)
@@ -82,7 +82,7 @@
 
 <br/>
 
-## 2차원 배열
+## 7. 2차원 배열
 - [[BaekJoon] 2738번 행렬 덧셈 문제풀이 (Success)](https://hj0216.tistory.com/484)
 - [[BaekJoon] 2566번 최댓 문제풀이 (Success)](https://hj0216.tistory.com/519)
 - [[BaekJoon] 10798번 세로읽기 문제풀이 (Success)](https://hj0216.tistory.com/520)
@@ -90,7 +90,7 @@
 
 <br/>
 
-## 일반 수학 1
+## 8. 일반 수학 1
 - [[BaekJoon] 2745번 진법 변환 문제풀이 (Success)](https://hj0216.tistory.com/402)
 - [[BaekJoon] 11005번 진법 변환 2 문제풀이 (Success)](https://hj0216.tistory.com/439)
 - [[BaekJoon] 2720번 세탁소 사장 동혁 문제풀이 (Success)](https://hj0216.tistory.com/404)
@@ -101,7 +101,7 @@
 
 <br/>
 
-## 약수, 배수와 소수
+## 9. 약수, 배수와 소수
 - [[BaekJoon] 5086번 배수와 약수 문제풀이 (Success)](https://hj0216.tistory.com/216)
 - [[BaekJoon] 2501번 약수 구하기 문제풀이 (Success)](https://hj0216.tistory.com/268)
 - [[BaekJoon] 9506번 약수들의 합 문제풀이 (Success)](https://hj0216.tistory.com/597)
@@ -111,7 +111,7 @@
 
 <br/>
 
-## 기하: 직사각형과 삼각형
+## 10. 기하: 직사각형과 삼각형
 - [[BaekJoon] 27323번 직사각형 문제풀이 (Success)](https://hj0216.tistory.com/408)
 - [[BaekJoon] 1085번 직사각형에서 탈출 문제풀이 (Success)](https://hj0216.tistory.com/187)
 - [[BaekJoon] 3009번 네 번째 점 문제풀이 (Success)](https://hj0216.tistory.com/208)
@@ -123,7 +123,7 @@
 
 <br/>
 
-## 시간 복잡도
+## 11. 시간 복잡도
 - [[BaekJoon] 24262번 알고리즘 수업 - 알고리즘의 수행 시간 1 문제풀이 (Success)](https://hj0216.tistory.com/364)
 - [[BaekJoon] 24263번 알고리즘 수업 - 알고리즘의 수행 시간 2 문제풀이 (Success)](https://hj0216.tistory.com/384)
 - [[BaekJoon] 24264번 알고리즘 수업 - 알고리즘의 수행 시간 3 문제풀이 (Success)](https://hj0216.tistory.com/503)
@@ -134,7 +134,7 @@
 
 <br/>
 
-## 브루트 포스
+## 12. 브루트 포스
 - [[BaekJoon] 2798번 블랙잭 문제풀이 (Success)](https://hj0216.tistory.com/601)
 - [[BaekJoon] 2231번 분해합 문제풀이 (Success)](https://hj0216.tistory.com/629)
 - [[BaekJoon] 19532번 수학은 비대면강의입니다 문제풀이 (Success)](https://hj0216.tistory.com/604)
@@ -144,7 +144,7 @@
 
 <br/>
 
-## 정렬
+## 13. 정렬
 - [[BaekJoon] 2750번 수 정렬 문제풀이 (Success)](https://hj0216.tistory.com/326)
 - [[BaekJoon] 2587번 대표값2 문제풀이 (Success)](https://hj0216.tistory.com/377)
 - [[BaekJoon] 25305번 커트라인 문제풀이 (Success)](https://hj0216.tistory.com/383)
@@ -159,7 +159,7 @@
 
 <br/>
 
-## 집합과 맵
+## 14. 집합과 맵
 - [[BaekJoon] 10815번 숫자 카드 합 문제풀이 (Success)](https://hj0216.tistory.com/646)
 - [[BaekJoon] 14425번 문자열 집합 문제풀이 (Success)](https://hj0216.tistory.com/647)
 - [[BaekJoon] 7785번 회사에 있는 사람 문제풀이 (Success)](https://hj0216.tistory.com/648)
@@ -169,13 +169,13 @@
 
 <br/>
 
-## 약수, 배수와 소수 2
+## 15. 약수, 배수와 소수 2
 - [[BaekJoon] 13241번 최소공배수 문제풀이 (Success)](https://hj0216.tistory.com/525)
 - [[BaekJoon] 1735번 분수 합 문제풀이 (Success)](https://hj0216.tistory.com/641)
 
 <br/>
 
-## 스택, 큐, 덱
+## 16. 스택, 큐, 덱
 - [[BaekJoon] 28278번 스택2 문제 풀이 (Success)](https://hj0216.tistory.com/704)
 - [[BaekJoon] 10773번 제로 문제풀이 (Success)](https://hj0216.tistory.com/621)
 - [[BaekJoon] 9012번 괄호 문제풀이 (Success)](https://hj0216.tistory.com/624)
@@ -185,7 +185,12 @@
 
 <br/>
 
-## 심화 2
+## 19. 조합론
+- [[BaekJoon] 15439번 베라의 패션 문제 풀이 (Success)](https://hj0216.tistory.com/729)
+
+<br/>
+
+## 20. 심화 2
 - [[BaekJoon] 1037번 약수 문제풀이 (Success)](https://hj0216.tistory.com/674)
 
 <br/>

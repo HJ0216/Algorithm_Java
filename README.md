@@ -202,6 +202,11 @@
 
 <br/>
 
+## 24. 누적 합
+- [[BaekJoon] 11659번 구간 합 구하기4 문제 풀이 (Success)](https://hj0216.tistory.com/741)
+
+<br/>
+
 ## 🎸 기타
 - [[BaekJoon] 10430번 나머지 문제풀이 (Success)](https://hj0216.tistory.com/227)
 - [[BaekJoon] 10757번 큰 수 A+B 문제풀이 (Success)](https://hj0216.tistory.com/449)

@@ -1,4 +1,4 @@
-# Algorithm 문제 풀이
+# Algorithm-Java 문제 풀이
 
 ## 1. 입출력과 사칙연산
 - [[BaekJoon] 2557번 Hello World 문제풀이 (Success)](https://hj0216.tistory.com/138)
@@ -198,7 +198,8 @@
 <br/>
 
 ## 21. 재귀
-- [[BaekJoon] 11050번 이항 계수1 문제 풀이 (Success)](https://hj0216.tistory.com/737)
+- [[BaekJoon] 27433번 팩토리얼 2 문제 풀이 (Success)](https://hj0216.tistory.com/737)
+- [[BaekJoon] 10870번 피보나치 수 5 문제 풀이 (Success)](https://hj0216.tistory.com/748)
 
 <br/>
 

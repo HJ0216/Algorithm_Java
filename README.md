@@ -163,6 +163,7 @@
 - [[BaekJoon] 10815번 숫자 카드 합 문제풀이 (Success)](https://hj0216.tistory.com/646)
 - [[BaekJoon] 14425번 문자열 집합 문제풀이 (Success)](https://hj0216.tistory.com/647)
 - [[BaekJoon] 7785번 회사에 있는 사람 문제풀이 (Success)](https://hj0216.tistory.com/648)
+- [[BaekJoon] 1620번 나는야 포켓몬 마스터 이다솜 문제 풀이 (Success)](https://hj0216.tistory.com/751)
 - [[BaekJoon] 10816번 숫자 카드 2 문제풀이 (Success)](https://hj0216.tistory.com/649)
 - [[BaekJoon] 1764번 듣보잡 문제 풀이 (Success)](https://hj0216.tistory.com/722)
 - [[BaekJoon] 1269번 대칭 차집합 문제 풀이 (Success)](https://hj0216.tistory.com/724)

@@ -204,6 +204,11 @@
 
 <br/>
 
+## 22. 백트래킹
+- [[BaekJoon] 15649번 N과 M (1) 문제 풀이 (Success)](https://hj0216.tistory.com/761)
+
+<br/>
+
 ## 24. 누적 합
 - [[BaekJoon] 11659번 구간 합 구하기4 문제 풀이 (Success)](https://hj0216.tistory.com/741)
 

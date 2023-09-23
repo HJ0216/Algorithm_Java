@@ -173,6 +173,7 @@
 ## 15. 약수, 배수와 소수 2
 - [[BaekJoon] 13241번 최소공배수 문제풀이 (Success)](https://hj0216.tistory.com/525)
 - [[BaekJoon] 1735번 분수 합 문제풀이 (Success)](https://hj0216.tistory.com/641)
+- [[BaekJoon] 13909번 창문 닫기 문제 풀이 (Success)](https://hj0216.tistory.com/785)
 
 <br/>
 

@@ -167,6 +167,7 @@
 - [[BaekJoon] 10816번 숫자 카드 2 문제풀이 (Success)](https://hj0216.tistory.com/649)
 - [[BaekJoon] 1764번 듣보잡 문제 풀이 (Success)](https://hj0216.tistory.com/722)
 - [[BaekJoon] 1269번 대칭 차집합 문제 풀이 (Success)](https://hj0216.tistory.com/724)
+- [[BaekJoon] 11478번 서로 다른 부분 문자열의 개수 문제 풀이 (Success)](https://hj0216.tistory.com/797)
 
 <br/>
 

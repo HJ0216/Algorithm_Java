@@ -193,6 +193,7 @@
 ## 19. 조합론
 - [[BaekJoon] 15439번 베라의 패션 문제 풀이 (Success)](https://hj0216.tistory.com/729)
 - [[BaekJoon] 27423번 녹색거탑 문제 풀이 (Success)](https://hj0216.tistory.com/730)
+- [[BaekJoon] 10872번 팩토리얼 문제 풀이 (Success)](https://hj0216.tistory.com/808)
 - [[BaekJoon] 11050번 이항 계수1 문제 풀이 (Success)](https://hj0216.tistory.com/733)
 
 <br/>

@@ -164,7 +164,6 @@
 - [[BaekJoon] 14425번 문자열 집합 문제풀이 (Success)](https://hj0216.tistory.com/647)
 - [[BaekJoon] 7785번 회사에 있는 사람 문제풀이 (Success)](https://hj0216.tistory.com/648)
 - [[BaekJoon] 1620번 나는야 포켓몬 마스터 이다솜 문제 풀이 (Success)](https://hj0216.tistory.com/751)
-- [[BaekJoon] 10816번 숫자 카드 2 문제풀이 (Success)](https://hj0216.tistory.com/649)
 - [[BaekJoon] 1764번 듣보잡 문제 풀이 (Success)](https://hj0216.tistory.com/722)
 - [[BaekJoon] 1269번 대칭 차집합 문제 풀이 (Success)](https://hj0216.tistory.com/724)
 - [[BaekJoon] 11478번 서로 다른 부분 문자열의 개수 문제 풀이 (Success)](https://hj0216.tistory.com/797)
@@ -218,6 +217,16 @@
 
 ## 24. 누적 합
 - [[BaekJoon] 11659번 구간 합 구하기4 문제 풀이 (Success)](https://hj0216.tistory.com/741)
+
+<br/>
+
+## 27. 이분 탐색
+- [[BaekJoon] 10816번 숫자 카드 2 문제풀이 (Success)](https://hj0216.tistory.com/649)
+
+<br/>
+
+## 31. 그래프와 순회
+- [[BaekJoon] 24479번 알고리즘 수업 - 깊이 우선 탐색 1 문제풀이 (Success)](https://hj0216.tistory.com/813)
 
 <br/>
 

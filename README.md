@@ -192,7 +192,7 @@
 ## 19. 조합론
 - [[BaekJoon] 15439번 베라의 패션 문제 풀이 (Success)](https://hj0216.tistory.com/729)
 - [[BaekJoon] 27423번 녹색거탑 문제 풀이 (Success)](https://hj0216.tistory.com/730)
-- [[BaekJoon] 10872번 팩토리얼 문제 풀이 (Success)](https://hj0216.tistory.com/808)
+- [[Algorithm_Java] 10872번 팩토리얼 (Success)](https://hj0216.tistory.com/808)
 - [[BaekJoon] 11050번 이항 계수1 문제 풀이 (Success)](https://hj0216.tistory.com/733)
 
 <br/>
@@ -212,6 +212,7 @@
 - [[BaekJoon] 15649번 N과 M (1) 문제 풀이 (Success)](https://hj0216.tistory.com/761)
 - [[BaekJoon] 15650번 N과 M (2) 문제 풀이 (Success)](https://hj0216.tistory.com/773)
 - [[BaekJoon] 15651번 N과 M (3) 문제 풀이 (Success)](https://hj0216.tistory.com/792)
+- [[Algorithm_Java] 15652번 N과 M (4) (Success)](https://hj0216.tistory.com/823)
 
 <br/>
 
@@ -226,7 +227,7 @@
 <br/>
 
 ## 31. 그래프와 순회
-- [[BaekJoon] 24479번 알고리즘 수업 - 깊이 우선 탐색 1 문제풀이 (Success)](https://hj0216.tistory.com/813)
+- [[Algorithm_Java] 24479번 알고리즘 수업 - 깊이 우선 탐색 1 (Success)](https://hj0216.tistory.com/813)
 
 <br/>
 

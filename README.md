@@ -1,6 +1,8 @@
-# Algorithm-Java 문제 풀이
+# Algorithm_Java 문제 풀이
 
-## 1. 입출력과 사칙연산
+## Baekjoon
+
+### 1. 입출력과 사칙연산
 - [[BaekJoon] 2557번 Hello World 문제풀이 (Success)](https://hj0216.tistory.com/138)
 - [[BaekJoon] 1000번 A+B 문제풀이 (Success)](https://hj0216.tistory.com/139)
 - [[BaekJoon] 1001번 A-B 문제풀이 (Success)](https://hj0216.tistory.com/144)
@@ -14,7 +16,7 @@
 
 <br/>
 
-## 2. 조건문
+### 2. 조건문
 - [[BaekJoon] 1330번 두 수 비교하기 문제풀이 (Success)](https://hj0216.tistory.com/239)
 - [[BaekJoon] 9498번 시험 성적 문제풀이 (Success)](https://hj0216.tistory.com/242)
 - [[BaekJoon] 2753번 윤년 문제풀이 (Success)](https://hj0216.tistory.com/247)
@@ -25,7 +27,7 @@
 
 <br/>
 
-## 3. 반복문
+### 3. 반복문
 - [[BaekJoon] 2739번 구구단 문제풀이 (Success)](https://hj0216.tistory.com/261)
 - [[BaekJoon] 10950번 A+B-3 문제풀이 (Success)](https://hj0216.tistory.com/271)
 - [[BaekJoon] 8393번 합 문제풀이 (Success)](https://hj0216.tistory.com/274)
@@ -41,7 +43,7 @@
 
 <br/>
 
-## 4. 1차원 배열
+### 4. 1차원 배열
 - [[BaekJoon] 10807번 개수 세기 문제풀이 (Success)](https://hj0216.tistory.com/277)
 - [[BaekJoon] 10871번 X보다 작은 수 정렬 문제풀이](https://hj0216.tistory.com/329)
 - [[BaekJoon] 10818번 최소, 최소 문제풀이 (Success)](https://hj0216.tistory.com/320)
@@ -55,7 +57,7 @@
 
 <br/>
 
-## 5. 문자열
+### 5. 문자열
 - [[BaekJoon] 27866번 문자와 문자열 문제풀이 (Success)](https://hj0216.tistory.com/280)
 - [[BaekJoon] 2743번 단어 길이 재기 문제풀이 (Success)](https://hj0216.tistory.com/355)
 - [[BaekJoon] 9086번 문자열 문제풀이 (Success)](https://hj0216.tistory.com/356)
@@ -70,7 +72,7 @@
 
 <br/>
 
-## 6. 심화1
+### 6. 심화1
 - [[BaekJoon] 25083번 새싹 문제풀이 (Success)](https://hj0216.tistory.com/372)
 - [[BaekJoon] 3003번 킹, 퀸, 룩, 비숍, 나이트, 폰 문제풀이 (Success)](https://hj0216.tistory.com/390)
 - [[BaekJoon] 2444번 별 찍기 - 7 문제풀이 (Success)](https://hj0216.tistory.com/393)
@@ -82,7 +84,7 @@
 
 <br/>
 
-## 7. 2차원 배열
+### 7. 2차원 배열
 - [[BaekJoon] 2738번 행렬 덧셈 문제풀이 (Success)](https://hj0216.tistory.com/484)
 - [[BaekJoon] 2566번 최댓 문제풀이 (Success)](https://hj0216.tistory.com/519)
 - [[BaekJoon] 10798번 세로읽기 문제풀이 (Success)](https://hj0216.tistory.com/520)
@@ -90,7 +92,7 @@
 
 <br/>
 
-## 8. 일반 수학 1
+### 8. 일반 수학 1
 - [[BaekJoon] 2745번 진법 변환 문제풀이 (Success)](https://hj0216.tistory.com/402)
 - [[BaekJoon] 11005번 진법 변환 2 문제풀이 (Success)](https://hj0216.tistory.com/439)
 - [[BaekJoon] 2720번 세탁소 사장 동혁 문제풀이 (Success)](https://hj0216.tistory.com/404)
@@ -101,7 +103,7 @@
 
 <br/>
 
-## 9. 약수, 배수와 소수
+### 9. 약수, 배수와 소수
 - [[BaekJoon] 5086번 배수와 약수 문제풀이 (Success)](https://hj0216.tistory.com/216)
 - [[BaekJoon] 2501번 약수 구하기 문제풀이 (Success)](https://hj0216.tistory.com/268)
 - [[BaekJoon] 9506번 약수들의 합 문제풀이 (Success)](https://hj0216.tistory.com/597)
@@ -111,7 +113,7 @@
 
 <br/>
 
-## 10. 기하: 직사각형과 삼각형
+### 10. 기하: 직사각형과 삼각형
 - [[BaekJoon] 27323번 직사각형 문제풀이 (Success)](https://hj0216.tistory.com/408)
 - [[BaekJoon] 1085번 직사각형에서 탈출 문제풀이 (Success)](https://hj0216.tistory.com/187)
 - [[BaekJoon] 3009번 네 번째 점 문제풀이 (Success)](https://hj0216.tistory.com/208)
@@ -123,7 +125,7 @@
 
 <br/>
 
-## 11. 시간 복잡도
+### 11. 시간 복잡도
 - [[BaekJoon] 24262번 알고리즘 수업 - 알고리즘의 수행 시간 1 문제풀이 (Success)](https://hj0216.tistory.com/364)
 - [[BaekJoon] 24263번 알고리즘 수업 - 알고리즘의 수행 시간 2 문제풀이 (Success)](https://hj0216.tistory.com/384)
 - [[BaekJoon] 24264번 알고리즘 수업 - 알고리즘의 수행 시간 3 문제풀이 (Success)](https://hj0216.tistory.com/503)
@@ -134,7 +136,7 @@
 
 <br/>
 
-## 12. 브루트 포스
+### 12. 브루트 포스
 - [[BaekJoon] 2798번 블랙잭 문제풀이 (Success)](https://hj0216.tistory.com/601)
 - [[BaekJoon] 2231번 분해합 문제풀이 (Success)](https://hj0216.tistory.com/629)
 - [[BaekJoon] 19532번 수학은 비대면강의입니다 문제풀이 (Success)](https://hj0216.tistory.com/604)
@@ -144,7 +146,7 @@
 
 <br/>
 
-## 13. 정렬
+### 13. 정렬
 - [[BaekJoon] 2750번 수 정렬 문제풀이 (Success)](https://hj0216.tistory.com/326)
 - [[BaekJoon] 2587번 대표값2 문제풀이 (Success)](https://hj0216.tistory.com/377)
 - [[BaekJoon] 25305번 커트라인 문제풀이 (Success)](https://hj0216.tistory.com/383)
@@ -159,7 +161,7 @@
 
 <br/>
 
-## 14. 집합과 맵
+### 14. 집합과 맵
 - [[BaekJoon] 10815번 숫자 카드 문제풀이 (Success)](https://hj0216.tistory.com/646)
 - [[BaekJoon] 14425번 문자열 집합 문제풀이 (Success)](https://hj0216.tistory.com/647)
 - [[BaekJoon] 7785번 회사에 있는 사람 문제풀이 (Success)](https://hj0216.tistory.com/648)
@@ -171,7 +173,7 @@
 
 <br/>
 
-## 15. 약수, 배수와 소수 2
+### 15. 약수, 배수와 소수 2
 - [[BaekJoon] 1934번 최소공배수 문제풀이 (Success)](https://hj0216.tistory.com/802)
 - [[BaekJoon] 13241번 최소공배수 문제풀이 (Success)](https://hj0216.tistory.com/525)
 - [[BaekJoon] 1735번 분수 합 문제풀이 (Success)](https://hj0216.tistory.com/641)
@@ -179,7 +181,7 @@
 
 <br/>
 
-## 16. 스택, 큐, 덱
+### 16. 스택, 큐, 덱
 - [[BaekJoon] 28278번 스택2 문제 풀이 (Success)](https://hj0216.tistory.com/704)
 - [[BaekJoon] 10773번 제로 문제풀이 (Success)](https://hj0216.tistory.com/621)
 - [[BaekJoon] 9012번 괄호 문제풀이 (Success)](https://hj0216.tistory.com/624)
@@ -190,7 +192,7 @@
 
 <br/>
 
-## 19. 조합론
+### 19. 조합론
 - [[BaekJoon] 15439번 베라의 패션 문제 풀이 (Success)](https://hj0216.tistory.com/729)
 - [[BaekJoon] 27423번 녹색거탑 문제 풀이 (Success)](https://hj0216.tistory.com/730)
 - [[Algorithm_Java] 10872번 팩토리얼 (Success)](https://hj0216.tistory.com/808)
@@ -198,18 +200,18 @@
 
 <br/>
 
-## 20. 심화 2
+### 20. 심화 2
 - [[BaekJoon] 1037번 약수 문제풀이 (Success)](https://hj0216.tistory.com/674)
 
 <br/>
 
-## 21. 재귀
+### 21. 재귀
 - [[BaekJoon] 27433번 팩토리얼 2 문제 풀이 (Success)](https://hj0216.tistory.com/737)
 - [[BaekJoon] 10870번 피보나치 수 5 문제 풀이 (Success)](https://hj0216.tistory.com/748)
 
 <br/>
 
-## 22. 백트래킹
+### 22. 백트래킹
 - [[BaekJoon] 15649번 N과 M (1) 문제 풀이 (Success)](https://hj0216.tistory.com/761)
 - [[BaekJoon] 15650번 N과 M (2) 문제 풀이 (Success)](https://hj0216.tistory.com/773)
 - [[BaekJoon] 15651번 N과 M (3) 문제 풀이 (Success)](https://hj0216.tistory.com/792)
@@ -217,23 +219,23 @@
 
 <br/>
 
-## 24. 누적 합
+### 24. 누적 합
 - [[BaekJoon] 11659번 구간 합 구하기4 문제 풀이 (Success)](https://hj0216.tistory.com/741)
 
 <br/>
 
-## 27. 이분 탐색
+### 27. 이분 탐색
 - [[BaekJoon] 10816번 숫자 카드 2 문제풀이 (Success)](https://hj0216.tistory.com/649)
 
 <br/>
 
-## 31. 그래프와 순회
+### 31. 그래프와 순회
 - [[Algorithm_Java] 24479번 알고리즘 수업 - 깊이 우선 탐색 1 (Success)](https://hj0216.tistory.com/813)
 - [[Algorithm_Java] 24480번 알고리즘 수업 - 깊이 우선 탐색 1 (Success)](https://hj0216.tistory.com/828)
 
 <br/>
 
-## 🎸 기타
+### 🎸 기타
 - [[BaekJoon] 10430번 나머지 문제풀이 (Success)](https://hj0216.tistory.com/227)
 - [[BaekJoon] 10757번 큰 수 A+B 문제풀이 (Success)](https://hj0216.tistory.com/449)
 - [[BaekJoon] 10820번 문자열 분석 문제 풀이 (Success)](https://hj0216.tistory.com/689)
@@ -244,3 +246,46 @@
 - [[BaekJoon] 18108번 1998년생인 내가 태국에서는 2541년생?! 문제풀이 (Success)](https://hj0216.tistory.com/179)
 - [[BaekJoon] 2477번 참외밭 문제풀이 (-ing)](https://hj0216.tistory.com/191)
 - [[BaekJoon] 9093번 단어 뒤집기 문제 풀이 (Success)](https://hj0216.tistory.com/688)
+
+
+
+<br/>
+
+
+
+## Programmers
+
+### Lv. 1
+- [[Programmers] 폰켓몬 문제 풀이 (Success)](https://hj0216.tistory.com/754)
+- [[Algorithm_Java] 2016년 (Success)](https://hj0216.tistory.com/839)
+- [[Programmers] 가운데 글자 가져오기 (Success)](https://hj0216.tistory.com/757)
+- [[Programmers] 같은 숫자는 싫어 (Success)](https://hj0216.tistory.com/760)
+- [[Programmers] 나누어 떨어지는 숫자 배열 (Success)](https://hj0216.tistory.com/769)
+- [[Programmers] 두 정수 사이의 합 (Success)](https://hj0216.tistory.com/776)
+- [[Programmers] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/778)
+- [[Algorithm_Java] 문자열 내 p와 y의 개수 (Success)](https://hj0216.tistory.com/838)
+- [[Algorithm_Java] 문자열 내림차순으로 배치하기 (Success)](https://hj0216.tistory.com/851)
+- [[Algorithm_Java] 문자열 다루기 기본 (Success)](https://hj0216.tistory.com/866)
+- [[Algorithm_Java] 서울에서 김서방 찾기 (Success)](https://hj0216.tistory.com/867)
+- [[Algorithm_Java] 소수 찾기 (Success)](https://hj0216.tistory.com/868)
+- [[Algorithm_Java] 수박수박수박수박수박수? (Success)](https://hj0216.tistory.com/869)
+- [[Algorithm_Java] 문자열을 정수로 바꾸기 (Success)](https://hj0216.tistory.com/870)
+- [[Algorithm_Java] 시저 암호 (Success)](https://hj0216.tistory.com/872)
+- [[Algorithm_Java] 약수의 합 (Success)](https://hj0216.tistory.com/873)
+- [[Programmers] 소수 만들기 (Success)](https://hj0216.tistory.com/767)
+- [[Algorithm_Java] 바탕화면 정리 (Success)](https://hj0216.tistory.com/862)
+- [[Algorithm_Java] 추억 점수 (Success)](https://hj0216.tistory.com/858)
+- [[Algorithm_Java] 달리기 경주 (Success)](https://hj0216.tistory.com/857)
+
+<br/>
+
+### Lv. 2
+- [[Algorithm_Java] 시소 짝꿍 (Success)](https://hj0216.tistory.com/850)
+- [[Algorithm_Java] 뒤에 있는 큰 수 찾기 (Success)](https://hj0216.tistory.com/845)
+- [[Algorithm_Java] 광물 캐기 (Success)](https://hj0216.tistory.com/844)
+- [[Algorithm_Java] 연속된 부분 수열의 합 (Success)](https://hj0216.tistory.com/841)
+
+<br/>
+
+
+

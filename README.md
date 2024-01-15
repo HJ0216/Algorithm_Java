@@ -277,6 +277,7 @@
 - [[Algorithm_Java] 추억 점수 (Success)](https://hj0216.tistory.com/858)
 - [[Algorithm_Java] 달리기 경주 (Success)](https://hj0216.tistory.com/857)
 - [Algorithm_Java] 나머지가 1이 되는 수 찾기 (Success)
+- [Algorithm_Java] 짝수와 홀수 (Success)
 
 <br/>
 

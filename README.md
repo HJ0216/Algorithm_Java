@@ -279,6 +279,7 @@
 - [Algorithm_Java] 나머지가 1이 되는 수 찾기 (Success)
 - [Algorithm_Java] 짝수와 홀수 (Success)
 - [Algorithm_Java] K번째수 (Success)
+- [Algorithm_Java] 푸드 파이트 대회 (Success)
 
 <br/>
 

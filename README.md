@@ -281,6 +281,7 @@
 - [Algorithm_Java] K번째수 (Success)
 - [Algorithm_Java] 두 개 뽑아서 더하기 (Success)
 - [Algorithm_Java] 푸드 파이트 대회 (Success)
+- [Algorithm_Java] [1차] 비밀지도 (Success)
 
 
 <br/>
